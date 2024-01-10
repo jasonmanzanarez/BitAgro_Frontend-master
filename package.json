@@ -2,7 +2,10 @@
   "name": "datta-able-rv18.0.4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lite.codedthemes.com/datta-able/react/default/",
+  "engines": {
+    "node": "9.11.2"
+  },
+  "homepage": "https://bitagro.000webhostapp.com/",
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.3.1",
