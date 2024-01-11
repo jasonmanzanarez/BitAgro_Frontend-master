@@ -5,7 +5,7 @@
   "engines": {
     "node": "9.11.2"
   },
-  "homepage": "https://bitagro.000webhostapp.com/",
+  "homepage": "https://1bitagro.000webhostapp.com/",
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.3.1",

@@ -1,1 +1,1 @@
-export const hostBack = "http://localhost:5000/api";
+export const hostBack = "https://bitagro-d8d699eb4403.herokuapp.com/api";
